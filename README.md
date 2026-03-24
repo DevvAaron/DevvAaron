@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Aaron Huaman
+# 🚀 AARON HUAMAN
 ### **Systems Engineer | Full-Stack Developer | AI | linux | Network Security**
 
 ---
