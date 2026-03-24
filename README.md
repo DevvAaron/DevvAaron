@@ -1,5 +1,5 @@
-# ⚡ Engineering the Future with Code & AI
-**Systems Engineer** enfocado en el ecosistema **React/Next.js** e integración de **Computer Vision**.
+# 🚀 Aaron Huaman | Systems Engineer & Full-Stack Developer
+### Especializado en Modernización Digital, IA y Soluciones Escalables
 
 Un apasionado del desarrollo **Front-End y Back-End** y la **Arquitectura de Software**, con una base sólida en **infraestructura, redes y sistemas operativos**. Mi enfoque es transformar procesos de negocio en soluciones digitales escalables y seguras.
 
