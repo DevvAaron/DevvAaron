@@ -1,14 +1,14 @@
 # ¡Hola! Soy Aaron 👋 (Front-End Developer)
 
-Estudiante de [Tu Carrera/Ciclo] apasionado por crear experiencias digitales rápidas, responsivas y centradas en el usuario. Actualmente enfocado en el ecosistema de **React** y la optimización de aplicaciones E-commerce.
+Egresado en Ing. de Sistemas apasionado por crear experiencias digitales rápidas, responsivas y centradas en el usuario. Actualmente enfocado en el ecosistema de **React**.
 
 ---
 
-### 🚀 Mi Stack Tecnológico
-* **Lenguajes:** HTML5, CSS3 (Flexbox/Grid), JavaScript (ES6+), TypeScript.
-* **Frameworks/Librerías:** React.js, Tailwind CSS, Bootstrap.
-* **Herramientas:** Git/GitHub, Vite, Firebase, consumo de APIs REST.
-* **Intereses:** Optimización de Web Vitals, UI/UX Design y E-commerce.
+### 🚀 Mi Stack Tecnológico 🚀
+* **Lenguajes:** HTML5, CSS3 (Flexbox/Grid), JavaScript (ES6+)
+* **Frameworks/Librerías:** React.js, Next.js.
+* **Herramientas:** Git/GitHub, Vite, AWS, consumo de APIs REST.
+* **Intereses:** Optimización de Web Vitals, UI/UX Design.
 
 ---
 
