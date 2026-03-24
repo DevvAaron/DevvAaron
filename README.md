@@ -1,16 +1,31 @@
-## Hi there 👋
+# ¡Hola! Soy Aaron 👋 (Front-End Developer)
 
-<!--
-**DevvAaron/DevvAaron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de [Tu Carrera/Ciclo] apasionado por crear experiencias digitales rápidas, responsivas y centradas en el usuario. Actualmente enfocado en el ecosistema de **React** y la optimización de aplicaciones E-commerce.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Mi Stack Tecnológico
+* **Lenguajes:** HTML5, CSS3 (Flexbox/Grid), JavaScript (ES6+), TypeScript.
+* **Frameworks/Librerías:** React.js, Tailwind CSS, Bootstrap.
+* **Herramientas:** Git/GitHub, Vite, Firebase, consumo de APIs REST.
+* **Intereses:** Optimización de Web Vitals, UI/UX Design y E-commerce.
+
+---
+
+### 🛠️ Proyectos Destacados (Enfocados en Performance)
+
+#### 🛒 [Nombre de tu mejor Proyecto E-commerce o Tienda]
+* **Descripción:** Aplicación de tienda virtual con carrito funcional y filtrado de productos.
+* **Tech:** React + Tailwind + Context API.
+* **Link:** [Ver Demo en Vivo] | [Ver Código]
+
+#### 📱 [Nombre de un Proyecto Responsivo]
+* **Descripción:** Landing page optimizada para dispositivos móviles con puntaje +90 en Lighthouse.
+* **Tech:** HTML/CSS puro + JS.
+* **Link:** [Ver Demo en Vivo] | [Ver Código]
+
+---
+
+### 📫 Contacto
+* **LinkedIn:** [Tu link de LinkedIn aquí]
+* **Correo:** [Tu correo electrónico]
