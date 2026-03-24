@@ -19,11 +19,6 @@ Egresado de **Ingeniería de Sistemas** apasionado por crear experiencias digita
 * **Tech:** React + Vite + CSS3 + GitHub Actions (CI/CD).
 * **Links:** [Ver Demo en Vivo](https://devvaaron.github.io/shpdservices/) | [Ver Código](https://github.com/DevvAaron/shpdservices)
 
-#### 🛒 [Nombre de tu Proyecto E-commerce]
-* **Descripción:** Aplicación de tienda virtual con carrito funcional y filtrado de productos (Ideal para el sector Retail).
-* **Tech:** React + Tailwind + Context API.
-* **Link:** [Ver Demo en Vivo] | [Ver Código]
-
 ---
 
 ### 📫 Contacto
