@@ -1,6 +1,7 @@
-# ¡Hola! Soy Aaron 👋 (Ingeniero de Sistemas)
+# ⚡ Engineering the Future with Code & AI
+**Systems Engineer** enfocado en el ecosistema **React/Next.js** e integración de **Computer Vision**.
 
-Un apasionado del desarrollo **Front-End** y la **Arquitectura de Software**, con una base sólida en **infraestructura, redes y sistemas operativos**. Mi enfoque es transformar procesos de negocio en soluciones digitales escalables y seguras.
+Un apasionado del desarrollo **Front-End y Back-End** y la **Arquitectura de Software**, con una base sólida en **infraestructura, redes y sistemas operativos**. Mi enfoque es transformar procesos de negocio en soluciones digitales escalables y seguras.
 
 ---
 
