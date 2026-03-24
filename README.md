@@ -1,5 +1,15 @@
-# 🚀 Aaron Huaman | Systems Engineer & Full-Stack Developer
-### Especializado en Modernización Digital, IA y Soluciones Escalables
+<div align="center">
+
+# 🚀 Aaron Huaman
+### **Systems Engineer | Full-Stack Developer | AI | linux | Network Security**
+
+---
+
+*"Transformando procesos de negocio en soluciones digitales de alto rendimiento mediante código limpio e infraestructura moderna."*
+
+[💼 LinkedIn](https://www.linkedin.com/in/aaronhuaman/) | [📧 Correo](mailto:aronhuaman8@gmail.com) | [🌎 Lima, Perú](https://www.google.com/maps/place/Lima)
+
+</div>
 
 Un apasionado del desarrollo **Front-End y Back-End** y la **Arquitectura de Software**, con una base sólida en **infraestructura, redes y sistemas operativos**. Mi enfoque es transformar procesos de negocio en soluciones digitales escalables y seguras.
 
