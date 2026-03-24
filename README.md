@@ -1,4 +1,4 @@
-# ¡Hola! Soy Aaron 👋 (Front-End Developer)
+# ¡Hola! Soy Aaron 👋 
 
 Egresado de **Ingeniería de Sistemas** apasionado por crear experiencias digitales rápidas, responsivas y centradas en el usuario. Actualmente enfocado en el ecosistema de **React** y la optimización de aplicaciones escalables.
 
