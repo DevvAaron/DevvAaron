@@ -14,6 +14,11 @@ Egresado de **Ingeniería de Sistemas** apasionado por crear experiencias digita
 
 ### 🛠️ Proyectos Destacados
 
+#### 🤖 [ERP Cloud & AI Vision - JER Courier (Next.js + YOLOv8)](https://github.com/DevvAaron/ERP_DEMO)
+* **Descripción:** Migración de sistema legacy a Web con registro de asistencia mediante **Reconocimiento Facial**.
+* **Tech:** **Next.js**, **Docker**, **Prisma**, **YOLOv8**.
+* **Link:** [Ver Código del ERP](https://github.com/DevvAaron/ERP_DEMO)
+  
 #### 🛡️ [Sistema de Gestión de Almacén (Full-Stack) - Alarmas Cobra SAC]
 * **Descripción:** Solución completa para el control de inventarios y activos. Incluye una interfaz moderna en React y un backend robusto en AWS.
 * **Front-End (React):** [Ver Código Front](https://github.com/DevvAaron/Front)
