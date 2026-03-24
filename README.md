@@ -16,14 +16,12 @@ Un apasionado del desarrollo **Front-End y Back-End** y la **Arquitectura de Sof
 ---
 
 ### 🚀 Mi Stack Tecnológico
-<div align="center">
 | Área | Tecnologías |
 | :--- | :--- |
 | **Front-End** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white) |
 | **Back-End** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) |
 | **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) |
 | **Infrastructure** | ![Networks](https://img.shields.io/badge/-Networking-blue?logo=cisco&logoColor=white) ![Shell](https://img.shields.io/badge/-Bash/Shell-4EAA25?logo=gnubash&logoColor=white) |  
-</div>
 
 ---
 
